@@ -4,7 +4,7 @@
     "href": "portfolio.html",
     "title": "Portfolio",
     "section": "",
-    "text": "During the course of the DAEN degree here at GMU, I will use this page to publish the main projects for each of my different courses.\n\n\nMid-Project link will go here and link to report and video.\n\n\n\nLinks will go here"
+    "text": "During the course of the DAEN degree here at GMU, I will use this page to publish the main projects for each of my different courses."
   },
   {
     "objectID": "portfolio.html#meet-quarto",
@@ -87,15 +87,15 @@
     "objectID": "portfolio.html#stat515",
     "href": "portfolio.html#stat515",
     "title": "Portfolio",
-    "section": "",
-    "text": "Mid-Project link will go here and link to report and video."
+    "section": "STAT515",
+    "text": "STAT515\nMid-Project link will go here and link to report and video."
   },
   {
     "objectID": "portfolio.html#future-class-page",
     "href": "portfolio.html#future-class-page",
     "title": "Portfolio",
-    "section": "",
-    "text": "Links will go here"
+    "section": "Future Class Page",
+    "text": "Future Class Page\nLinks will go here"
   },
   {
     "objectID": "index.html#embedding-and-running-code-w-quarto-r",
