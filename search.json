@@ -4,7 +4,7 @@
     "href": "portfolio.html",
     "title": "Portfolio",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "During the course of the DAEN degree here at GMU, I will use this page to publish the main projects for each of my different courses.\n\n\nMid-Project link will go here and link to report and video.\n\n\n\nLinks will go here"
   },
   {
     "objectID": "portfolio.html#meet-quarto",
@@ -44,9 +44,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "about",
+    "title": "About",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "Hi, I’m Blake. I’m a retired US Navy officer going back to school to learn something new. Most of my previous experience and learning was focused on Computers and Cybersecurity, so I figured this time around I’d like to focus on different ways to analyze data (I love spreadsheets for some reason…). I’ve been married to my husband Zach for 3 years and we have two dogs, Briggs (Vizsla - 4 y/o) and Maverick (Weimaraner - almost 5 months old)."
   },
   {
     "objectID": "about.html#quarto",
@@ -61,5 +61,47 @@
     "title": "about",
     "section": "Running Code",
     "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "about.html#blake-lafever",
+    "href": "about.html#blake-lafever",
+    "title": "About",
+    "section": "",
+    "text": "Hi, I’m Blake. I’m a retired US Navy officer going back to school to learn something new. Most of my previous experience and learning was focused on Computers and Cybersecurity, so I figured this time around I’d like to focus on different ways to analyze data (I love spreadsheets for some reason…). I’ve been married to my husband Zach for 3 years and we have two dogs, Briggs (Vizsla - 4 y/o) and Maverick (Weimaraner - almost 5 months old)."
+  },
+  {
+    "objectID": "about.html#academic-background",
+    "href": "about.html#academic-background",
+    "title": "About",
+    "section": "Academic Background",
+    "text": "Academic Background\nBachelor’s of Science in Computer Engineering - Georgia Institute of Technology (2003)\nMasters of Engineering Management - Old Dominion University (2012)\nMaster of Science in Cyber Systems and Operations - Naval Postgraduate School (2015)"
+  },
+  {
+    "objectID": "about.html#professional-background",
+    "href": "about.html#professional-background",
+    "title": "About",
+    "section": "Professional Background",
+    "text": "Professional Background\nNuclear Engineer (Submarines) - US Navy (2003-2010)\nSatellite Communications and Computer Networks - US Navy (2010-2023)\nPrincipal Cybersecurity Engineer - Everfox (2023-Present)"
+  },
+  {
+    "objectID": "portfolio.html#stat515",
+    "href": "portfolio.html#stat515",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Mid-Project link will go here and link to report and video."
+  },
+  {
+    "objectID": "portfolio.html#future-class-page",
+    "href": "portfolio.html#future-class-page",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Links will go here"
+  },
+  {
+    "objectID": "index.html#embedding-and-running-code-w-quarto-r",
+    "href": "index.html#embedding-and-running-code-w-quarto-r",
+    "title": "Welcome",
+    "section": "Embedding and Running Code w/ Quarto & R",
+    "text": "Embedding and Running Code w/ Quarto & R\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this:\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
   }
 ]
