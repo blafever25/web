@@ -103,5 +103,12 @@
     "title": "Welcome",
     "section": "Embedding and Running Code w/ Quarto & R",
     "text": "Embedding and Running Code w/ Quarto & R\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this:\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Me",
+    "section": "",
+    "text": "LinkedIn - https://www.linkedin.com/in/blake-lafever/\n\n\nE-mail - blafever@gmu.edu"
   }
 ]
